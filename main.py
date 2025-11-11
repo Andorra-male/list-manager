@@ -8,4 +8,5 @@ def remove_item(lst, item):
 def print_list(lst):
     for item in lst:
         print(item)
+        
 input("\nНатисніть Entr, щоб закрити програму...")
